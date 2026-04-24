@@ -37,3 +37,29 @@ This makes the project more engaging for cricket fans while learning Flask devel
 - CSS (if used)
 
 ---
+                
+╔════════════════════════════════════════════════════════╗
+║                 ▶ HOW TO RUN THIS PROJECT             ║
+╠════════════════════════════════════════════════════════╣
+║  1️⃣ Install Python (if not installed)               ║
+║     python --version                                 ║
+║                                                        ║
+║  2️⃣ Install Flask                                     ║
+║     pip install flask                                ║
+║                                                        ║
+║  3️⃣ Open your project folder                          ║
+║     cd path/to/your/project                          ║
+║                                                        ║
+║  4️⃣ Run the application                               ║
+║     python app.py                                    ║
+║     OR                                                ║
+║     flask run                                        ║
+║                                                        ║
+║  5️⃣ Open in browser                                   ║
+║     http://127.0.0.1:5000                            ║
+╠════════════════════════════════════════════════════════╣
+║ ⚠ TROUBLESHOOTING                                      ║
+║ • Server not starting → check terminal errors         ║
+║ • Page not opening → verify correct port              ║
+║ • Nothing loads → restart the server                  ║
+╚════════════════════════════════════════════════════════╝
